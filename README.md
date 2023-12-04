@@ -1,6 +1,6 @@
 # Boston Housing Price Prediction Project
 ## Overview
-This project aims to predict house prices in Boston using regression algorithms. It utilizes the Boston house prices dataset and various regression techniques to analyze and predict house prices based on several attributes.
+This project aims to predict house prices in Boston using regression algorithms. It utilizes the Boston house prices dataset and various regression techniques to analyze and predict house prices based on several attributes. It was created as part of an academic course, intended to demonstrate the effectiveness of various implementation stages.
 
 ## Setup and Installation
 ### Requirements
